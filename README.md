@@ -2,6 +2,10 @@
 
 Upload a planned route GPX and the GPX you actually recorded; get an accuracy score and a breakdown of where and how they differ. Everything runs in the browser, so no files leave your machine (map tiles come from OpenStreetMap).
 
+Try it out now at https://twiggybuffalo.github.io/gpx-compare/
+
+To run it locally:
+
 ```bash
 npm install
 npm run dev
